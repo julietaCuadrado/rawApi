@@ -1,0 +1,20 @@
+body {
+    padding-top: 70px;
+    padding-bottom: 30px;
+}
+
+.theme-showcase > p > .btn {
+    margin: 5px 0;
+}
+
+.theme-showcase .navbar .container {
+    width: auto;
+}
+
+.spacer-top {
+    margin-top: 10px;
+}
+
+ .spacer-right {
+    margin-right: 15px;
+}
