@@ -5,6 +5,6 @@ For some reason, in a technical test, I was asked to develop an API *without any
 
 Thus I decided to try.
 
-And I learn a lot.
+And I learned a lot.
 
 ;)
